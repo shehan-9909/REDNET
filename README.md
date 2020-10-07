@@ -1,16 +1,1 @@
-# whatsapp
-chmod 777 setup
-
-python whatsapp.py
-
-https://twilio.com
-
-enter id
-
-enter token
-
-enter send number
-
-enter send message
-
-enjoy😆
+https://wa.me/%2B14155238886?text=join%20generally-got
