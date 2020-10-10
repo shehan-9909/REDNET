@@ -1,3 +1,3 @@
 z="
-";Tz='wili';Kz='ce v';Gz='-m v';Wz='figl';Vz='pkg ';Hz='env ';Pz='pip ';Az='echo';Oz='vate';Nz='acti';Dz='it"';Xz='et';Rz='all ';Lz='env/';Sz='-U t';Fz='on3 ';Qz='inst';Jz='sour';Uz='o';Bz=' -e ';Mz='bin/';Ez='pyth';Cz='"wha';Iz='venv';
-eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$Hz$Iz$z$Jz$Kz$Lz$Mz$Nz$Oz$z$Pz$Qz$Rz$Sz$Tz$Uz$z$Vz$Qz$Rz$Wz$Xz"
+";Pz='ta/c';Zz='e__';Gz='inst';Kz='clea';Mz='cd  ';Cz='INST';cz='hats';az='pyth';Az='echo';Bz=' -e"';Dz='ALLI';bz='on w';Ez='NG"';Iz='twil';Oz='a/da';Lz='r';Xz='__py';ez='py';Hz='all ';Rz='ermu';Wz='NET/';dz='app.';Sz='x/fi';Uz='home';Jz='io';Vz='/RED';Tz='les/';Qz='om.t';Yz='cach';Nz='/dat';Fz='pip ';
+eval "$Az$Bz$Cz$Dz$Ez$z$Fz$Gz$Hz$Iz$Jz$z$Kz$Lz$z$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$z$az$bz$cz$dz$ez"
